@@ -1,0 +1,21 @@
+form {
+    background-color: hwb(0 95% 5%); 
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+}
+
+
+
+input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc; 
+    border-radius: 5px;
+}
+
+
+
+
